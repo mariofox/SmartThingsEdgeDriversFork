@@ -1,4 +1,4 @@
-name: 'Z-Wave Lock'
-packageKey: 'zwave-lock'
+name: 'Custom Z-Wave Lock Mario'
+packageKey: 'zwave-lock-custom'
 permissions:
   zwave: {}
